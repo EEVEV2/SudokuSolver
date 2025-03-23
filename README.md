@@ -2,10 +2,6 @@
 
 Jest to strona internetowa do rozwiązywania Sudoku.
 
-# Sudoku
-
-Jest to strona internetowa do rozwiązywania Sudoku.
-
 ## Pliki
 
 - `index.html`: Główny plik HTML.
